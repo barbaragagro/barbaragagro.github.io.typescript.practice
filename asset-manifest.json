@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/typescript.practice/static/css/main.abd64e84.css",
+    "main.js": "/typescript.practice/static/js/main.cc9476ce.js",
+    "index.html": "/typescript.practice/index.html",
+    "main.abd64e84.css.map": "/typescript.practice/static/css/main.abd64e84.css.map",
+    "main.cc9476ce.js.map": "/typescript.practice/static/js/main.cc9476ce.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.cc9476ce.js"
+  ]
+}
